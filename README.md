@@ -1,4 +1,6 @@
 ## Aho–Corasick algorithm
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffossas%2Fahocorasick.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffossas%2Fahocorasick?ref=badge_shield)
+
 
 #### Intro
 
@@ -112,3 +114,6 @@ To Run Benchmark, go to test dir
 #### License
 
 MIT License
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffossas%2Fahocorasick.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffossas%2Fahocorasick?ref=badge_large)
